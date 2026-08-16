@@ -7,3 +7,4 @@ data/vectorstore/*
 !data/vectorstore/.gitkeep
 .venv/
 venv/
+read.md
