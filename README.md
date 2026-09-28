@@ -1,4 +1,4 @@
-# 💰 Financial Document Intelligence & RAG
+# Financial Document Intelligence & RAG
 
 A retrieval-augmented generation system that answers questions about financial
 documents (annual reports, bank statements, loan documents, policy documents)
